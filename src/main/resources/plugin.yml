@@ -1,0 +1,8 @@
+name: Pl3xMap-Folia-regions
+version: '1.0-SNAPSHOT'
+main: me.adabugra.pl3xmapfoliaregions.Pl3xMapFoliaRegions
+api-version: '1.21'
+depend: [Pl3xMap]
+folia-supported: true
+description: A plugin that displays Folia regions on Pl3xMap
+author: adabugra
