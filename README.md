@@ -1,3 +1,3 @@
 # Pl3xMap Folia regions
 
-![{1FE700E6-4305-42D6-B6E6-B412C09E10DA}](https://github.com/user-attachments/assets/dab674d1-c048-4005-bb83-c6b624438cf0)
+![{0F7F401A-D0C1-4E58-85AD-79698F2A3F38}](https://github.com/user-attachments/assets/176cfa77-f50e-4f3c-b69e-4a8ab5b30a51)
